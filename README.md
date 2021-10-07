@@ -26,9 +26,15 @@ This package is used for open the website, Email, Phone, etc.
 
 Following are the Screens of this App:
 
+#### Register Screen
+
 <img src="https://github.com/AbdulSattarSuleman/jawan_pakistan_portal/blob/master/output_screenshots/register.png">
 
+#### Login Screen
+
 <img src="https://github.com/AbdulSattarSuleman/jawan_pakistan_portal/blob/master/output_screenshots/loginscreen.png">
+
+#### HomePage Screen
 
 <img src="https://github.com/AbdulSattarSuleman/jawan_pakistan_portal/blob/master/output_screenshots/homepagescreen1.png">
 
